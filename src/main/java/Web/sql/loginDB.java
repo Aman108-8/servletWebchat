@@ -8,7 +8,7 @@ public class loginDB {
         Connection con= null;
         try{
             Class.forName("com.mysql.cj.jdbc.Driver");
-            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/webChat", "root", "ay704321.");
+            con = DriverManager.getConnection("jdbc:mysql://localhost:3306/webChat", "root", "your_SQL_Password");
             
             
         }
