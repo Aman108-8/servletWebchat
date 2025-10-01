@@ -1,0 +1,13 @@
+Web\MessageObj.class
+Web\sql\loginDB.class
+com\indiansoftware\webchat\resources\JakartaEE10Resource.class
+DoChat.class
+Web\Servlet\Login.class
+Web\Servlet\SignupServlet.class
+com\indiansoftware\webchat\JakartaRestConfiguration.class
+Web\Servlet\chatOpen.class
+Web\sql\frndSql.class
+Web\Servlet\findFrnd.class
+Web\sql\chatSql.class
+Web\User.class
+Web\sql\userSql.class
