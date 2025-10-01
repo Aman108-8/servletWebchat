@@ -41,11 +41,6 @@ This project demonstrates how to build a classic chat system from scratch using 
 create database webchat;
 
 use webchat;
-show tables;
-drop database chat_sessions;
-
-drop table chat_sessions;
-ALTER TABLE chat_messages DROP FOREIGN KEY chat_messages_ibfk_1;
 
 CREATE TABLE users (
     user_id INT AUTO_INCREMENT PRIMARY KEY,
