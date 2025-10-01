@@ -1,5 +1,3 @@
-# servletWebchat
-
 # Servlet WebChat 💬
 
 A simple real-time style **chat web application** built using **Java Servlets, JSP, and MySQL**.  
@@ -106,4 +104,5 @@ cd servletWebchat
 
 <img width="1895" height="912" alt="image" src="https://github.com/user-attachments/assets/cd844762-d13a-47cc-8af1-9df14b64c722" />
 
-<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/8edec226-7eb0-402e-b2a7-1a929d1b1967" />
+<img width="1918" height="923" alt="image" src="https://github.com/user-attachments/assets/fde1d304-a983-4b71-af3e-630c7537792f" />
+
